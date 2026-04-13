@@ -1,0 +1,1 @@
+{"run name": "run_SIDM_DREAMS116_DM_power0_sigma1_dir_0", "DM type": "SIDM", "baryon_type": "DM", "powerLaws": [0], "sigma0": 1.0, "otherInfo": ["dir", "0"], "BoxSize": 100000, "NPart": 114, "Mass Resolution": [1219564.2226546092], "Softening Length": 30.248033877797944, "redshifts": [2.220446049250313e-16], "file_indices": [127], "Omega0": [0.301712]}
